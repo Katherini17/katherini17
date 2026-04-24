@@ -4,6 +4,8 @@
 
 Backend developer based in Saint Petersburg. Focused on building scalable and reliable APIs with Java and the Spring ecosystem. Hexlet graduate with a background in Computer Systems.
 
+[Читать на русском](README.ru.md)
+
 ---
 
 ### 🛠 Tech Stack
