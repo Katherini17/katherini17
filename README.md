@@ -2,7 +2,8 @@
 
 ### Java Backend Developer
 
-I'm a backend developer based in Saint Petersburg. Passionate about building scalable and reliable APIs with Java and Spring ecosystem. A recent graduate of Hexlet's Java Developer program.
+Backend developer based in Saint Petersburg. Focused on building scalable and reliable APIs with Java and the Spring ecosystem. Hexlet graduate with a background in Computer Systems.
+
 
 ---
 
