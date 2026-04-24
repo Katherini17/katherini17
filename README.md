@@ -27,14 +27,14 @@ I'm a backend developer based in Saint Petersburg. Passionate about building sca
 
 ### 🚀 Key Projects
 
-* **[Task Manager](https://github.com/Katherini17/java-task-manager)**
+#### 📂 **[Task Manager](https://github.com/Katherini17/java-task-manager)**
 A project management API with JWT authentication. Features dynamic task filtering and partial resource updates (JSON Merge Patch).
-* **Stack:** Java 21, Spring Boot 3.4, Spring Security, Hibernate, PostgreSQL, Sentry.
+> **Stack:** Java 21, Spring Boot 3.4, Spring Security, Hibernate, PostgreSQL, Sentry.
 
-* **[Page Analyzer](https://github.com/Katherini17/java-page-analyzer)**
+#### 📂 **[Page Analyzer](https://github.com/Katherini17/java-page-analyzer)**
 A Full-stack (SSR) SEO tool for analyzing metadata and site accessibility.
-* **Stack:** Java 21, Javalin, JTE, Unirest, PostgreSQL, JUnit 5.
+> **Stack:** Java 21, Javalin, JTE, Unirest, PostgreSQL, JUnit 5.
 
-* **[Data Validator](https://github.com/Katherini17/java-data-validator)**
+#### 📂 **[Data Validator](https://github.com/Katherini17/java-data-validator)**
 A flexible Java library for schema-based data validation across various data types.
-* **Stack:** Java 21, JUnit 5, Gradle.
+> **Stack:** Java 21, JUnit 5, Gradle.
