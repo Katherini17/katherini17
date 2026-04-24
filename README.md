@@ -20,7 +20,6 @@ Backend developer based in Saint Petersburg. Focused on building scalable and re
 
 * 🌍 Based in **Saint-Petersburg, Russia**
 * ✉️ Email: [katherini17@yandex.ru](mailto:katherini17@yandex.ru)
-* 📱 Telegram: [@Katherini](https://t.me/Katherini)
 * 🎓 **Education:** Vocational Degree in Computer Systems | **Institute of Secondary Vocational Education (ISVO) SPbPU**
 * 💻 **Training:** Java Backend Development | **Hexlet**
 
