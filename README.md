@@ -4,7 +4,6 @@
 
 Backend developer based in Saint Petersburg. Focused on building scalable and reliable APIs with Java and the Spring ecosystem. Hexlet graduate with a background in Computer Systems.
 
-
 ---
 
 ### 🛠 Tech Stack
@@ -16,11 +15,11 @@ Backend developer based in Saint Petersburg. Focused on building scalable and re
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
-
 ---
 
 * 🌍 Based in **Saint-Petersburg, Russia**
-* ✉️ Contact: [katherini17@yandex.ru](mailto:katherini17@yandex.ru)
+* ✉️ Email: [katherini17@yandex.ru](mailto:katherini17@yandex.ru)
+* 📱 Telegram: [@Katherini](https://t.me/Katherini)
 * 🎓 **Education:** Vocational Degree in Computer Systems | **Institute of Secondary Vocational Education (ISVO) SPbPU**
 * 💻 **Training:** Java Backend Development | **Hexlet**
 
