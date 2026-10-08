@@ -3,8 +3,8 @@
 ### Java Backend Developer
 
 Backend developer based in Saint Petersburg.
-Focused on building scalable and reliable APIs with Java and the Spring ecosystem. 
-Hexlet graduate with a background in Computer Systems.
+Focused on building backend applications and REST APIs with Java and the Spring ecosystem.
+I completed professional retraining in Java development at Hexlet and currently study Software Engineering at SUAI.
 
 [Читать на русском](README.ru.md)
 
@@ -22,23 +22,24 @@ Hexlet graduate with a background in Computer Systems.
 
 ---
 
-* 🌍 Based in **Saint-Petersburg, Russia**
-* ✉️ Email: [katherini17@yandex.ru](mailto:katherini17@yandex.ru)
-* 🎓 **Education:** Vocational Degree in Computer Systems | **Institute of Secondary Vocational Education (ISVO) SPbPU**
-* 💻 **Training:** Java Backend Development | **Hexlet**
+🌍 Based in Saint Petersburg, Russia
+✉️ Email: katherini17@yandex.ru
+🎓 Education: Bachelor's Degree in Software Engineering | State University of Aerospace Instrumentation (SUAI) — 2026–Present
+🎓 Vocational Degree in Computer Systems | Institute of Secondary Vocational Education (ISVO) SPbPU — 2023
+💻 Professional Retraining: Java Developer | Hexlet — 2026
 
 ---
 
 ### 🚀 Key Projects
 
 #### 📂 **[Task Manager](https://github.com/Katherini17/java-task-manager)**
-A project management API with JWT authentication. Features dynamic task filtering and partial resource updates (JSON Merge Patch).
-> **Stack:** Java 21, Spring Boot 3.4, Spring Security, Hibernate, PostgreSQL, Sentry.
+A REST API for managing tasks, users, statuses and labels. Includes JWT authentication, task filtering and sorting, and partial resource updates.
+> **Stack:** Java 21, Spring Boot 3.4, Spring Security, Spring Data JPA, PostgreSQL, Docker, JUnit 5.
 
 #### 📂 **[Page Analyzer](https://github.com/Katherini17/java-page-analyzer)**
-A Full-stack (SSR) SEO tool for analyzing metadata and site accessibility.
-> **Stack:** Java 21, Javalin, JTE, Unirest, PostgreSQL, JUnit 5.
+A web application for checking website availability and performing basic SEO analysis of metadata such as Title, H1 and Description.
+> **Stack:** Java 21, Javalin, JTE, PostgreSQL, Unirest, Jsoup, JUnit 5.
 
 #### 📂 **[Data Validator](https://github.com/Katherini17/java-data-validator)**
-A flexible Java library for schema-based data validation across various data types.
+A Java library for schema-based data validation across different data types.
 > **Stack:** Java 21, JUnit 5, Gradle.
